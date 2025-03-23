@@ -29,7 +29,7 @@ I thrive in fast-paced environments and enjoy leading technical teams, mentoring
 **Frontend**: Next.js • React • Angular  
 **Backend**: NestJS • NodeJS • Java (Spring Boot)  
 **AI/ML**: OpenAI API • LangChain • Python  
-**Cloud & DevOps**: AWS • GCP • Firebase • Docker • Kubernetes • GitHub Actions • Terraform
+**Cloud & DevOps**: Azure • AWS • GCP • Firebase • Docker • Kubernetes • GitHub Actions • Terraform
 
 ---
 
