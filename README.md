@@ -37,7 +37,7 @@ I thrive in fast-paced environments and enjoy leading technical teams, mentoring
 
 Feel free to reach out for collaboration, consulting or just to say hi!
 
-- 🌐 [mathyucardozo.dev](https://mathyu-portfolio.vercel.app) *(si tienes una web personal)*
+- 🌐 [Portfolio Web](https://mathyu-portfolio.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mathyu-cardozo)
 - 📬 [Email](mailto:xmathyu@gmail.com)
 
